@@ -1,2 +1,2 @@
-issueIsMissingVersionOutputClose: false
+issueIsMissingVersionOutputClose: true
 issueIsMissingVersionOutputComment: Override test
